@@ -52,6 +52,8 @@ I moved into software from an Electrical & Electronics Engineering background, a
 | **ManaMitra** | Java, MVVM, Firebase (Firestore, Cloud Functions), Room | Video platform app, recently migrated from per-video purchases to a monthly premium membership model. |
 | **AutoMate — Task Automator** | Java, AccessibilityService | Tasker-style automation app — 13 step types, multiple triggers (Bluetooth, Wi-Fi, geofence, time, battery, boot), an "Inspect Screen" tool, and Android App Shortcuts integration. |
 | **[Noti Filter](https://github.com/vinaykumarpamu38/Noti_Filter)** | Java, TFLite, Python (training pipeline), GCP Cloud Functions, Firebase App Check | On-device TFLite model scores notification importance in real time. Optionally self-improves weekly by retraining on the user's own data through a Drive-synced Cloud Function pipeline — every new model is reviewed and explicitly approved by the user before it ever goes live. |
+
+
 *(Links go live here as each app is pushed to GitHub.)*
 
 ---
