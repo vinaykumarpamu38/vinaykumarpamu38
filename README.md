@@ -26,11 +26,11 @@ I moved into software from an Electrical & Electronics Engineering background, a
 
 **Backend / Java Full-Stack**
 
-![Backend stack](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,dotnet,cs)
+![Backend stack](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,cs)
 
 **Frontend**
 
-![Frontend stack](https://skillicons.dev/icons?i=angular,html,css,js,bootstrap)
+![Frontend stack](https://skillicons.dev/icons?i=html,css,js,bootstrap)
 
 **Tools**
 
